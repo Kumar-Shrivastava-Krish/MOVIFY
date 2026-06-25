@@ -30,7 +30,7 @@ https://movify-7px5.vercel.app/
 
 ---
 
-## 🧠 Machine Learning Recommendation Backend (Prototype)
+## 🧠 Machine Learning  Backend (Prototype)
 
 ### 🔍 Overview
 Movify includes a **local ML-based recommendation system** designed to provide **personalized movie suggestions** based on user preferences and movie metadata.
